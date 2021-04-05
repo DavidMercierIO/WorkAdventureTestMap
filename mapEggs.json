@@ -128,7 +128,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitURL",
+                 "name":"exitUrl",
                  "type":"string",
                  "value":"\"https:\/\/play.workadventu.re\/_\/global\/davidmercierio.github.io\/WorkAdventureTestMap\/map.json#EggEntry\""
                 }],
@@ -148,7 +148,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\"#EggEntry\""
+                 "value":"\".\/mapEggs.json#EggEntry\""
                 }],
          "type":"tilelayer",
          "visible":true,
