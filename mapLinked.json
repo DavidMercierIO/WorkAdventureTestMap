@@ -97,7 +97,7 @@
                  "value":"http:\/\/list.intra.cea.fr\/index.php\/securite\/organisation-generale"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":128,
          "x":0,
          "y":0
@@ -128,7 +128,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"OpenWebsite",
+                 "name":"openWebsite",
                  "type":"string",
                  "value":"http:\/\/list.intra.cea.fr\/index.php\/rh\/contacts"
                 }],
@@ -151,7 +151,7 @@
                  "value":"http:\/\/list.intra.cea.fr\/index.php\/qualite\/accueil-qualite"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":128,
          "x":0,
          "y":0
@@ -163,7 +163,7 @@
          "objects":[],
          "opacity":1,
          "type":"objectgroup",
-         "visible":false,
+         "visible":true,
          "x":0,
          "y":0
         }],
