@@ -209,16 +209,6 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/gallica.bnf.fr\/blog\/12042020\/chasse-aux-oeufs?mode=desktop"
-                }, 
-                {
-                 "name":"openWebsiteTrigger",
-                 "type":"string",
-                 "value":"onaction"
-                }, 
-                {
-                 "name":"openWebsiteTriggerMessage",
-                 "type":"string",
-                 "value":"Appuyer sur Espace pour voir le site de la chasse aux oeufs de la BNF"
                 }],
          "type":"tilelayer",
          "visible":true,
